@@ -1,0 +1,12 @@
+./vscode
+/baekjoon.xcodeproj
+*.out
+*.plist
+project.pbxproj
+*.json
+baekjoon.xcodeproj/project.pbxproj
+baekjoon.xcodeproj/xcuserdata/doroddong.xcuserdatad/xcschemes/xcschememanagement.plist
+*.dSYM
+project.pbxproj
+xcschememanagement.plist
+baekjoon.xcodeproj/**
